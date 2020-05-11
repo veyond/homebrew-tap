@@ -1,7 +1,7 @@
 class Pycharm < Formula
     desc "Python IDE for Professional Developers, professional edition."
     homepage "http://www.jetbrains.com/pycharm/"
-    version "2019.1.3"
+    version "2020.1.1"
     url "https://download.jetbrains.com/python/pycharm-professional-#{version}.tar.gz"
 
     bottle :unneeded
